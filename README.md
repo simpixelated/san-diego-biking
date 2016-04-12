@@ -1,4 +1,4 @@
-# San Diego Dowtown Mobility Plan
+# San Diego Downtown Mobility Plan
 
 ## Upcoming advocacy opportunities:
 
@@ -16,4 +16,9 @@
 * [ ] recruit others to attend
 
 >Planning Commission and Smart Growth and Land Use are advisory but set the tone. City Council is the decision-maker. Process seen as vetting, building consensus, so unlikely to revert [to a previous draft]. Too often, process becomes finding path of least resistance. Approving "something" instead of right thing.
+
 [Joe LaCava](https://twitter.com/joe_lacava)
+
+More Information:
+* [But why bike lanes?](https://github.com/simpixelated/san-diego-downtown-mobility-plan/blob/master/references.md)
+* [Open Letter to Mayor Kevin Faulconer](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md)
