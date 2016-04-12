@@ -2,15 +2,16 @@
 
 ## Upcoming advocacy opportunities:
 
+### City Council Committee on Smart Growth and Land Use, April 27, 2016, 2:00 p.m. (Tentative)
+City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
+* [ ] send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
+* [ ] speak at hearing
+
 ### Planning Commission, May 12, 9:00 a.m. (Tentative)
 * [ ] email advocacy to planningcommission@sandiego.gov at least week before ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
 * [ ] speak at hearing
 
-### City Council Committee on Smart Growth and Land Use (TBD)
-* [ ] send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
-* [ ] speak at hearing
-
-### City Council (TBD)
+### City Council, June 13 or 14, 2016 (TBD)
 * [ ] send email to each council member a week before hearing ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
 * [ ] attend hearing
 * [ ] recruit others to attend
