@@ -1,3 +1,11 @@
+---
+title: Open Letter to Mayor Kevin Faulconer
+date: "2016-03-12T22:40:32.169Z"
+layout: post
+readNext: "/but-why-bike-lanes/"
+path: "/open-letter-to-mayor-faulconer/"
+---
+
 Dear Mayor Faulconer,
 
 I hope that you can follow in the footsteps of [New York City Mayor Bloomberg and "disrupt the status quo"](http://nymag.com/daily/intelligencer/2016/03/bike-wars-are-over-and-the-bikes-won.html) by making sure the Downtown Mobility Plan (DMP) gets fully enacted, helping the city of San Diego meet its [Climate Action Plan](http://www.sandiego.gov/planning/genplan/cap/) and [Vision Zero](http://www.circulatesd.org/visionzerosd) goals.

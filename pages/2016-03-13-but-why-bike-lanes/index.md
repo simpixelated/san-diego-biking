@@ -1,3 +1,11 @@
+---
+title: But Why Bike Lanes?
+date: "2016-03-13T23:46:37.121Z"
+layout: post
+readNext: "/upcoming-advocacy-opportunities/"
+path: "/but-why-bike-lanes/"
+---
+
 More references in favor of the [Downtown Mobility Plan](http://www.downtownsdmobility.com/app_pages/view/10):
 
 **Why not build more car lanes?**
