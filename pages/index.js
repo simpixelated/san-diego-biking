@@ -60,9 +60,6 @@ class BlogIndex extends React.Component {
         pageLinks.push(
           <li
             key={page.path}
-            style={{
-              marginBottom: rhythm(1/4),
-            }}
           >
             <Link to={prefixLink(page.path)}>{title}</Link>
           </li>
