@@ -352,10 +352,22 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/simpixelated/Dev/gatsby-blog"
+		"/Users/simpixelated/Dev/san-diego-downtown-mobility-plan"
 	],
 	"file_history":
 	[
+		"/Users/simpixelated/Dev/gatsby-blog/config.toml",
+		"/Users/simpixelated/Dev/gatsby-blog/README.md",
+		"/Users/simpixelated/Dev/gatsby-blog/components/Bio.js",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/_template.js",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/index.js",
+		"/Users/simpixelated/Dev/gatsby-blog/package.json",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/2016-04-12-upcoming-advocacy-opportunities/index.md",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/2015-05-28-hi-folks/index.md",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/2016-03-12-open-letter-to-mayor-faulconer/index.md",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/2015-05-06-my-second-post/index.md",
+		"/Users/simpixelated/Dev/gatsby-blog/pages/2015-05-01-hello-world/index.md",
+		"/Users/simpixelated/Pictures/Photos/Profile/headshot_250.png",
 		"/Users/simpixelated/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/simpixelated/Dev/nax-client-admin/node_modules/react/react.js",
 		"/Users/simpixelated/Dev/react-seed/webpack/config.js",
@@ -471,19 +483,7 @@
 		"/Users/simpixelated/Dev/rebelmouse-github/static/js/whitelabel/widgets/views/redactor.js",
 		"/Users/simpixelated/Dev/rebelmouse-github/static/css/design-layouts/roar/overrides.css",
 		"/Users/simpixelated/Dev/rebelmouse-github/static/css/roar_core.css",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/css/whitelabel/dodo/edit_mode_overrides.css",
-		"/Users/simpixelated/Dev/rebelmouse-github/community/popularpage/oldposts.py",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/css/modules/redactorjs.css",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/css/plugins/jquery.redactor.css",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/css/frontpage_whitelabel_core.css",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/js/widgets/views/simple_redactor.js",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/js/libs/jquery/plugins/redactor.js",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/js/widgets/views/redactor.js",
-		"/Users/simpixelated/Dev/rebelmouse-github/README",
-		"/Users/simpixelated/Dev/rebelmouse-github/crons/remove_extra_drafts.py",
-		"/Users/simpixelated/Dev/rebelmouse-github/static/js/utils/edit_mode_helpers.js",
-		"/Users/simpixelated/Dev/rebelmouse-github/notify/event.py",
-		"/Users/simpixelated/Dev/simpixelated-ghost/content/themes/slimer/assets/css/screen.css"
+		"/Users/simpixelated/Dev/rebelmouse-github/static/css/whitelabel/dodo/edit_mode_overrides.css"
 	],
 	"find":
 	{
@@ -494,6 +494,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"",
 			"/Users/simpixelated/Dev/disruption/src",
 			"",
 			"/Users/simpixelated/Dev/homdna-mobile/src",
@@ -537,6 +538,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"written by",
 			"^",
 			"\"",
 			"github",
@@ -663,8 +665,7 @@
 			"post_page",
 			"post_url",
 			"fb-comments",
-			"roar_core",
-			"crop.css"
+			"roar_core"
 		],
 		"highlight": true,
 		"in_selection": false,
