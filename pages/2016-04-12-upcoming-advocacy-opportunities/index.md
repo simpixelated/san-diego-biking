@@ -10,7 +10,7 @@ path: "/upcoming-advocacy-opportunities/"
 ### City Council Committee on Smart Growth and Land Use
 
 City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
-* send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
+* send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/))
 * speak at hearing
 
 #### Committee Members
@@ -24,7 +24,7 @@ City Council Committee Room, 12th Floor, City Administration Building, [202 C St
 ## May 12, 9:00 a.m. (Tentative)
 ### Planning Commission
 
-* email advocacy to planningcommission@sandiego.gov at least week before ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
+* email advocacy to planningcommission@sandiego.gov at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/))
 * speak at hearing
 
 ---
@@ -32,7 +32,7 @@ City Council Committee Room, 12th Floor, City Administration Building, [202 C St
 ## June 13 or 14, 2016 (TBD)
 ### City Council
 
-* send email to each council member a week before hearing ([example letter](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md))
+* send email to each council member a week before hearing ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/))
 * attend hearing
 * recruit others to attend
 
@@ -54,6 +54,5 @@ City Council Committee Room, 12th Floor, City Administration Building, [202 C St
 ---
 
 More Information:
-* [But why bike lanes?](https://github.com/simpixelated/san-diego-downtown-mobility-plan/blob/master/references.md)
-* [Open Letter to Mayor Kevin Faulconer](https://github.com/simpixelated/san-diego-biking/blob/master/letters/mayor-faulconer.md)
-* Honorable Mayor Kevin Faulconer / kevinfaulconer@sandiego.gov
+* [But why bike lanes?](http://simpixelated.github.io/san-diego-downtown-mobility-plan/but-why-bike-lanes/)
+* [Open Letter to Mayor Kevin Faulconer](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/)
