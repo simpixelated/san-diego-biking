@@ -7,45 +7,44 @@ import { rhythm } from 'utils/typography'
 import access from 'safe-access'
 import { config } from 'config'
 import include from 'underscore.string/include'
-import Bio from 'components/Bio'
 
 const newsLinks = [
   {
     path: 'http://sdurban.com/?p=10267',
-    title: 'Little Italy fights Downtown Mobility Plan'
+    title: 'Little Italy fights Downtown Mobility Plan',
   },
   {
     path: 'https://nextcity.org/daily/entry/san-diego-downtown-mobility-plan-bike-safety',
-    title: 'San Diego Is Ready to Go Big on Biking and Walking'
+    title: 'San Diego Is Ready to Go Big on Biking and Walking',
   },
   {
     path: 'http://bikesd.org/2016/03/downtown-mobility-plan-reason-love-san-diego-2016/',
-    title: 'Downtown Mobility Plan: A Reason to Love San Diego in 2016'
+    title: 'Downtown Mobility Plan: A Reason to Love San Diego in 2016',
   },
-];
+]
 
 const adovocateLinks = [
   {
     path: 'http://bikesd.org/',
-    title: 'BikeSD'
+    title: 'BikeSD',
   },
   {
     path: 'http://sdbikecoalition.org/',
-    title: 'San Diego County Bicycle Coalition'
+    title: 'San Diego County Bicycle Coalition',
   },
   {
     path: 'https://www.climateactioncampaign.org/',
-    title: 'Climate Action Campaign'
+    title: 'Climate Action Campaign',
   },
   {
     path: 'http://www.circulatesd.org/support_protected_bike_lanes_in_downtown_san_diego',
-    title: 'Circulate San Diego'
+    title: 'Circulate San Diego',
   },
   {
     path: 'http://www.c3sandiego.org/',
-    title: 'Citizens Coordinate for Century 3'
-  }
-];
+    title: 'Citizens Coordinate for Century 3',
+  },
+]
 
 class BlogIndex extends React.Component {
   render () {
@@ -70,8 +69,8 @@ class BlogIndex extends React.Component {
       <DocumentTitle title={config.blogTitle}>
         <div>
           <p>The <a href="http://www.downtownsdmobility.com/app_pages/view/10">Downtown Mobility Plan</a>
-           proposes to "increase priority and safety for bicyclists and pedestrians" by providing a
-           "cohesive network of complete streets".</p>
+          &nbsp;proposes to "increase priority and safety for bicyclists and pedestrians" by
+          &nbsp;providing a "cohesive network of complete streets".</p>
           <ul
             style={{
               marginBottom: rhythm(1),
@@ -94,7 +93,9 @@ class BlogIndex extends React.Component {
               marginBottom: rhythm(1),
             }}
           >
-            {adovocateLinks.map(link => <li key={link.path}><a href={link.path}>{link.title}</a></li>)}
+            {adovocateLinks.map(link =>
+              <li key={link.path}><a href={link.path}>{link.title}</a></li>
+            )}
           </ul>
 
           <img

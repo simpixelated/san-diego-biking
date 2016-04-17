@@ -2,8 +2,8 @@
 // see https://github.com/gatsbyjs/gatsby/issues/64
 exports.onRouteChange = state => {
   if (window.ga) {
-    ga('send', 'pageview', {
-      page: state.pathname
-    });
+    window.ga('send', 'pageview', {
+      page: state.pathname,
+    })
   }
 }
