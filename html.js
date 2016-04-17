@@ -33,8 +33,6 @@ module.exports = React.createClass({
         <body className="landing-page">
           <div id="react-mount" dangerouslySetInnerHTML={{ __html: body }} />
           <script src={prefixLink('/bundle.js')} />
-          // HACK to include Google Analytics
-          // see https://github.com/facebook/react/issues/654
           <script dangerouslySetInnerHTML={{ __html: `
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -43,7 +41,7 @@ module.exports = React.createClass({
 
             ga('create', 'UA-4495054-17', 'auto');
             ga('send', 'pageview');
-          `}}
+          ` }}
           />
         </body>
       </html>
