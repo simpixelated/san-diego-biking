@@ -72,7 +72,7 @@ class BlogIndex extends React.Component {
 
           <p>In particular the DMP will add one and two-way <a href="http://la.streetsblog.org/2014/09/22/governor-brown-signs-protected-bike-lane-bill-car-fee-for-bike-paths/">separated cycle tracks</a> to "encourage use and ensure a safe and convenient cycling environment for cyclists of all ages and skill levels". You can see the proposed bicycle network below, which will allow commuters, families, and tourists to make short trips across downtown safely and efficiently.</p>
 
-          <p>Whether you live or work downtown, or just visit on the weekends, your support of the DMP will give everyone a safe alternative to driving, which will help reduce congestion, pollution, noise, maintenance, and increase safety for those both biking and walking. Implementating the DMP will make San Diego a world class city, building on it's amazing climate and location.</p>
+          <p>Whether you live or work downtown, or just visit on the weekends, <Link to={prefixLink('/upcoming-advocacy-opportunities/')}>your support</Link> of the DMP will give everyone a safe alternative to driving, which will help reduce congestion, pollution, noise, maintenance, and increase safety for those both biking and walking. Implementating the DMP will make San Diego a world class city, building on it's amazing climate and location.</p>
 
 
           <ul
@@ -102,12 +102,14 @@ class BlogIndex extends React.Component {
             )}
           </ul>
 
-          <img
-            src={prefixLink('/proposed-bike-network.png')}
-            style={{
-              marginBottom: rhythm(2),
-            }}
+          <h2>Proposed Bicycle Network</h2>
+          <iframe
+            style={{ width: '100%', height: '34rem' }}
+            className="render-viewer"
+            src="https://render.githubusercontent.com/view/geojson?enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f676973742f616e6f6e796d6f75732f39353765366561366231316235363637323331643832613166323536353138362f7261772f336239356332313930623531346237656333333834613639633930626538656331666664343366312f6d61702e67656f6a736f6e#0a9a41cf-121a-43c8-8186-8fc6875a1420"
+            sandbox="allow-scripts allow-same-origin allow-top-navigation"
           />
+          <p><small><em>Note: Due to complaints from Washington Elementary and Our Lady of the Rosary Church, <a href="http://www.downtownsdmobility.com/app_pages/view/196">Civic SD Board recommended relocating the State Street cycle track to Kettner, north of Beech</a>. Original route is in light green with the proposed change in dark green.</em></small></p>
         </div>
       </DocumentTitle>
     )
