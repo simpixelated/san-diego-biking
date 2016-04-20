@@ -68,9 +68,13 @@ class BlogIndex extends React.Component {
     return (
       <DocumentTitle title={config.blogTitle}>
         <div>
-          <p>The <a href="http://www.downtownsdmobility.com/app_pages/view/10">Downtown Mobility Plan</a>
-          &nbsp;proposes to "increase priority and safety for bicyclists and pedestrians" by
-          &nbsp;providing a "cohesive network of complete streets".</p>
+          <p>The <a href="http://www.downtownsdmobility.com/app_pages/view/10">Downtown Mobility Plan</a> (DMP) is a proposal created by <a href="http://civicsd.com/">Civic San Diego</a> that "capitalizes on the current momentum by guiding development of a magnificent, vital urban setting" and will "increase priority and safety for bicyclists and pedestrians" by providing a "cohesive network of complete streets".</p>
+
+          <p>In particular the DMP will add one and two-way <a href="http://la.streetsblog.org/2014/09/22/governor-brown-signs-protected-bike-lane-bill-car-fee-for-bike-paths/">separated cycle tracks</a> to "encourage use and ensure a safe and convenient cycling environment for cyclists of all ages and skill levels". You can see the proposed bicycle network below, which will allow commuters, families, and tourists to make short trips across downtown safely and efficiently.</p>
+
+          <p>Whether you live or work downtown, or just visit on the weekends, your support of the DMP will give everyone a safe alternative to driving, which will help reduce congestion, pollution, noise, maintenance, and increase safety for those both biking and walking. Implementating the DMP will make San Diego a world class city, building on it's amazing climate and location.</p>
+
+
           <ul
             style={{
               marginBottom: rhythm(1),
