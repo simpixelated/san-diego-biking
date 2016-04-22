@@ -10,7 +10,7 @@ path: "/upcoming-advocacy-opportunities/"
 ### City Council Committee on Smart Growth and Land Use
 
 City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
-* send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/))
+* send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-councilmember-zapf/))
 * speak at hearing
 
 #### Committee Members
