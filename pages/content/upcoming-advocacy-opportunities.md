@@ -2,7 +2,7 @@
 title: Upcoming Advocacy Opportunities
 date: "2016-04-12T22:12:03.284Z"
 layout: post
-readNext: "/open-letter-to-mayor-faulconer/"
+readNext: "/open-letter-to-planning-commission/"
 path: "/upcoming-advocacy-opportunities/"
 ---
 
@@ -11,7 +11,7 @@ path: "/upcoming-advocacy-opportunities/"
 
 City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
 
-* email advocacy to planningcommission@sandiego.gov at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-councilmember-zapf/))
+* email advocacy to planningcommission@sandiego.gov at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-planning-commission/))
 * speak at hearing
 
 ##### Commission Roster
