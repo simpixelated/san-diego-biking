@@ -19,6 +19,7 @@ class Bio extends React.Component {
             marginBottom: 0,
             width: rhythm(2),
             height: rhythm(2),
+            borderRadius: rhythm(2),
           }}
         />
         Written by <strong>{config.authorName}</strong> who lives and works in San Diego building useful things. <a href="https://twitter.com/simpixelated">You should follow him on Twitter</a>
