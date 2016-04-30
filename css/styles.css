@@ -18,3 +18,7 @@ blockquote {
   margin-right: 0;
   padding-right: 0;
 }
+
+.footnote-item {
+  font-size: 80%;
+}

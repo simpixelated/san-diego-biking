@@ -14,6 +14,7 @@
     "gatsby": "0.9.3",
     "history": "2.0.2",
     "lodash": "4.11.1",
+    "markdown-it-footnote": "2.0.0",
     "moment": "2.12.0",
     "react-document-title": "2.0.1",
     "react-responsive-grid": "0.3.2",

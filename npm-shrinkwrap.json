@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ride-safe-san-diego",
   "version": "1.0.0",
   "dependencies": {
     "abbrev": {
@@ -2302,12 +2302,26 @@
         "h2o2": {
           "version": "4.0.1",
           "from": "h2o2@4.0.1",
-          "resolved": "https://registry.npmjs.org/h2o2/-/h2o2-4.0.1.tgz"
+          "resolved": "https://registry.npmjs.org/h2o2/-/h2o2-4.0.1.tgz",
+          "dependencies": {
+            "wreck": {
+              "version": "5.6.1",
+              "from": "wreck@>=5.0.0 <6.0.0",
+              "resolved": "https://registry.npmjs.org/wreck/-/wreck-5.6.1.tgz"
+            }
+          }
         },
         "heavy": {
           "version": "3.0.0",
           "from": "heavy@3.0.0",
-          "resolved": "https://registry.npmjs.org/heavy/-/heavy-3.0.0.tgz"
+          "resolved": "https://registry.npmjs.org/heavy/-/heavy-3.0.0.tgz",
+          "dependencies": {
+            "joi": {
+              "version": "5.1.0",
+              "from": "joi@>=5.0.0 <6.0.0",
+              "resolved": "https://registry.npmjs.org/joi/-/joi-5.1.0.tgz"
+            }
+          }
         },
         "hoek": {
           "version": "2.14.0",
@@ -2770,6 +2784,11 @@
       "from": "isarray@>=1.0.0 <1.1.0",
       "resolved": "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
     },
+    "isemail": {
+      "version": "1.2.0",
+      "from": "isemail@>=1.0.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/isemail/-/isemail-1.2.0.tgz"
+    },
     "isexe": {
       "version": "1.1.2",
       "from": "isexe@>=1.1.1 <2.0.0",
@@ -3173,6 +3192,11 @@
       "from": "markdown-it@>=6.0.1 <7.0.0",
       "resolved": "https://registry.npmjs.org/markdown-it/-/markdown-it-6.0.1.tgz"
     },
+    "markdown-it-footnote": {
+      "version": "2.0.0",
+      "from": "markdown-it-footnote@*",
+      "resolved": "https://registry.npmjs.org/markdown-it-footnote/-/markdown-it-footnote-2.0.0.tgz"
+    },
     "mdurl": {
       "version": "1.0.1",
       "from": "mdurl@>=1.0.1 <1.1.0",
@@ -3287,7 +3311,8 @@
           "dependencies": {
             "minimatch": {
               "version": "2.0.10",
-              "from": "minimatch@>=2.0.1 <3.0.0"
+              "from": "minimatch@2.0.10",
+              "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-2.0.10.tgz"
             }
           }
         },
