@@ -8,7 +8,7 @@ readNext: "/open-letter-to-councilmember-zapf/"
 
 Dear Planning Commission Members:
 
-As a resident of Little Italy along with my wife and daughter, I ask you to approve the Downtown Mobility Plan. There is a vocal opposition unhappy about the loss of parking, but I ask you to put the longterm health and safety of our citizens ahead of cheap car storage on public streets[^1]. Approving the plan is a necessity for future generations, but it can help improve current local businesses by making downtown a world class destination for tourists and residents alike.
+As a resident of Little Italy along with my wife and daughter, I ask you to approve the [Downtown Mobility Plan](http://www.downtownsdmobility.com/app_pages/view/10). There is a vocal opposition unhappy about the loss of parking, but I ask you to put the longterm health and safety of our citizens ahead of cheap car storage on public streets[^1]. Approving the plan is a necessity for future generations, but it can help improve current local businesses by making downtown a world class destination for tourists and residents alike.
 
 Parking in dense, urban areas is not as important as most business owners think. In fact, many tend to overestimate[^2] how many customers arrive by car by as much as 32%[^3]. Many of their current customers arrive by foot, bike, and transit. The addition of bike lanes [attracts new riders](http://www.peopleforbikes.org/statistics/category/facilities-statistics#if-you-build-it-they-will-come) adding new sources of revenue[^4]. Studies have shown that customers who arrive by bike spend at least as much[^5] as those who arrive by car, if not more[^6].
 
