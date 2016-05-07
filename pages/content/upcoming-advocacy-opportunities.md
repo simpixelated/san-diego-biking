@@ -6,10 +6,12 @@ readNext: "/open-letter-to-planning-commission/"
 path: "/upcoming-advocacy-opportunities/"
 ---
 
-### May 12, 9:00 a.m. (Tentative)
+### May 12, 9:00 a.m.
 #### [Planning Commission](https://www.sandiego.gov/planning-commission/about)
 
 City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
+
+[View Agenda](https://www.sandiego.gov/sites/default/files/may_12_2016.pdf)
 
 * email advocacy to planningcommission@sandiego.gov at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-planning-commission/))
 * speak at hearing
