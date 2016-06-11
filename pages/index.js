@@ -10,6 +10,10 @@ import include from 'underscore.string/include'
 
 const newsLinks = [
   {
+    path: 'http://bikesd.org/2016/06/downtown-mobility-plan-member-point-of-view/',
+    title: 'Downtown Mobility Plan – Member Point of View',
+  },
+  {
     path: 'http://www.sandiegouniontribune.com/news/2016/may/02/faulconer-climate-action-plan-funding-budget-2017/',
     title: 'Faulconer: $127M for climate change projects',
   },

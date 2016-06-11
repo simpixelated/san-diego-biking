@@ -6,30 +6,10 @@ readNext: "/open-letter-to-planning-commission/"
 path: "/upcoming-advocacy-opportunities/"
 ---
 
-### May 12, 9:00 a.m.
-#### [Planning Commission](https://www.sandiego.gov/planning-commission/about)
+### June 21, 2:00 p.m.
+#### [City Council](https://google.sannet.gov/search?partialfields=&proxyreload=1&num=100&requiredfields=PATH%3Acouncildockets%7CPATH%3Acouncilminutes%7CPATH%3Acouncilresults&getfields=DOCUMENT_URL.DOC_DATE.TITLE.SORTORDER&sort=date%3AD%3AS%3Ad1&output=xml_no_dtd&ie=UTF-8&client=scs_ocd&filter=0&site=documents&config=sirecouncilmeetings.js&proxystylesheet=sirefrontend&q=Council+inmeta:DOC_DATE_NUM%3A20160101..20170101)
 
 City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
-
-[View Agenda](https://www.sandiego.gov/sites/default/files/may_12_2016.pdf)
-
-* email advocacy to planningcommission@sandiego.gov at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-planning-commission/))
-* speak at hearing
-
-##### Commission Roster
-
-* Tim Golba, Chairperson / tgolba@golba.com
-* Stephen Haase, Vice-Chairperson
-* Douglas Austin
-* Susan Peerson
-* Theresa Quiroz
-* Anthony Wagner / [@AnthonyWagnerSD](https://twitter.com/AnthonyWagnerSD)
-* James Whalen
-
----
-
-### June 13 or 14, 2016 (TBD)
-#### City Council
 
 * send email to each council member a week before hearing ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-mayor-faulconer/))
 * attend hearing
@@ -54,14 +34,27 @@ City Council Committee Room, 12th Floor, City Administration Building, [202 C St
 
 ## Past Meetings
 
+### May 12, 9:00 a.m.
+#### [Planning Commission](https://www.sandiego.gov/planning-commission/about)
+
+**Unanimously approved (7-0)!**
+
+##### Commission Roster
+
+* Tim Golba, Chairperson / tgolba@golba.com
+* Stephen Haase, Vice-Chairperson
+* Douglas Austin
+* Susan Peerson
+* Theresa Quiroz
+* Anthony Wagner / [@AnthonyWagnerSD](https://twitter.com/AnthonyWagnerSD)
+* James Whalen
+
+---
+
 ### April 27, 2016, 2:00 p.m.
 #### City Council Committee on Smart Growth and Land Use
 
 **Unanimously passed Downtown Mobility Plan in it's original form!**
-
-City Council Committee Room, 12th Floor, City Administration Building, [202 C Street, San Diego, 92101](https://goo.gl/maps/2cBL1YM1eez)
-* send email to the [members](https://www.sandiego.gov/city-clerk/officialdocs/legisdocs/cccmeetings#smart) at least week before ([example letter](http://simpixelated.github.io/san-diego-downtown-mobility-plan/open-letter-to-councilmember-zapf/))
-* speak at hearing
 
 ##### Committee Members
 * Lorie Zapf (Chair) / loriezapf@sandiego.gov / [@LorieZapf](https://twitter.com/LorieZapf)
