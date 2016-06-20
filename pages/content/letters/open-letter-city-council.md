@@ -1,5 +1,5 @@
 ---
-title: Open Letter to Planning Commission
+title: Open Letter to City Council
 date: "2016-06-20T20:44:12.823Z"
 layout: post
 path: "/open-letter-to-city-council/"
