@@ -15,7 +15,7 @@
     "history": "2.0.2",
     "lodash": "4.17.21",
     "markdown-it-footnote": "2.0.0",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "react-document-title": "2.0.1",
     "react-responsive-grid": "0.3.2",
     "react-router": "2.2.4",
